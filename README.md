@@ -32,9 +32,9 @@ The optimized portfolio generated a higher annualized return and a modest Sharpe
 
 The repository includes archived figures extracted **directly from the executed original Colab notebook**:
 
-![Original four-panel portfolio dashboard](figures/original_four_panel_dashboard.png)
+![Final backtest dashboard](figures/backtest_dashboard_current_run.png)
 
-![ETF correlation matrix from original notebook](figures/etf_correlation_matrix.png)
+![ETF correlation matrix](figures/correlation_matrix_current_run.png)
 
 These images preserve earlier exploratory analyses. **They are not rerendered from the cleaned final implementation, and some reflect earlier in-sample or 70/30 experiments**, so they must not be treated as validated outputs of the cleaned monthly backtest. The notebook itself is the source of truth for the current methodology.
 
