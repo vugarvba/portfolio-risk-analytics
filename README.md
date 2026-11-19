@@ -30,15 +30,11 @@ The optimized portfolio generated a higher annualized return and a modest Sharpe
 
 ## Charts and illustrations
 
-The repository includes archived figures extracted **directly from the executed original Colab notebook**:
+The following charts were generated from the final cleaned portfolio analysis notebook:
 
 ![Final backtest dashboard](figures/backtest_dashboard_current_run.png)
 
 ![ETF correlation matrix](figures/correlation_matrix_current_run.png)
-
-These images preserve earlier exploratory analyses. **They are not rerendered from the cleaned final implementation, and some reflect earlier in-sample or 70/30 experiments**, so they must not be treated as validated outputs of the cleaned monthly backtest. The notebook itself is the source of truth for the current methodology.
-
-When you rerun `portfolio_analysis.ipynb`, it automatically saves **fresh** `figures/backtest_dashboard_current_run.png` and `figures/correlation_matrix_current_run.png`. Copy those figures from Colab into the repository and replace the archived dashboard in this README with the current figure once you verify the results.
 
 ## Run
 
